@@ -1,4 +1,4 @@
-target/
+!target/myname.jar
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -40,5 +40,4 @@ build/
 .iws
 .iml
 .ipr
-target
 .DS_STORE /src/main/resources/log
